@@ -1,0 +1,2 @@
+pour créer un sous-dossier, créer un fichier de nom: nomDuSousDossier/
+puis créer un fichier dans ce sous-dossier car git ne peut contenir de sous-dossier vide.
