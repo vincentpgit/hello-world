@@ -1,5 +1,5 @@
 pour gérer GitHub et le dossier local lié au repository, on peut utiliser Github Desktop et éviter ainsi les lignes de commande.
 1 importer ou créer un repository sous Github desktop
 2 associer le dossier local correspondant
-3 faire des modifs sur le dossier local puis faire un push pour mettre en attente les modifs
-4 faire un merge pour valider les modifs dans le repository.
+3 faire des modifs sur le dossier local puis faire un commit pour mettre en attente les modifs
+4 faire un push pour valider les modifs dans la branche main du repository .
